@@ -5,3 +5,16 @@ scikit-learn==1.7.0
 scipy==1.16.0
 sklearn-preprocessing==0.1.0
 threadpoolctl==3.6.0
+import pandas as pd
+import numpy as np
+import re
+import matplotlib.pyplot as plt
+import seaborn as sns
+import skimpy
+from skimpy import skim
+import plotly.express as px
+import json
+import requests
+import pycountry
+import seaborn as sns
+from sklearn.preprocessing import MinMaxScaler
